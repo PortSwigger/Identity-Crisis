@@ -1,0 +1,10 @@
+Uuid: eee7869f75e14cfebd857ddbc9d5fd3f
+ExtensionType: 2
+Name: Identity Crisis
+ScreenVersion: 0.2
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: True
+Author: m3g9tr0n
+ShortDescription: Checks if a particular URL responds differently to various User-Agent headers.
+EntryPoint: identitycrisis.py
