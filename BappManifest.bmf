@@ -1,6 +1,7 @@
 Uuid: eee7869f75e14cfebd857ddbc9d5fd3f
 ExtensionType: 2
 Name: Identity Crisis
+RepoName: identity-crisis
 ScreenVersion: 0.2
 SerialVersion: 1
 MinPlatformVersion: 0
